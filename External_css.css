@@ -1,0 +1,29 @@
+body {
+	background-color: powderblue;
+}
+* {
+	box-sizing: border-box;
+}
+a {
+	color: yellowgreen;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: yellowgreen;
+}
+
+.unit {
+	font-size: 8vw;
+	color: yellowgreen;
+	background-color: grey;
+	border-left: 60px solid red;
+	margin: 100px;
+	border-radius: 10px;
+	max-width: 1000px;
+	padding: 20px;
+	outline: 10px dotted yellow;
+	text-shadow: 5px 5px 15px red;
+	font-family: 'Aclonica';
+
+}
